@@ -9,6 +9,8 @@
 #include <time.h> 
 //usage: nc localhost 1337
 
+
+//TODO: Tab -> tcp
 int main(int argc, char *argv[])
 {
     int l_fd = 0, c_fd = 0;
